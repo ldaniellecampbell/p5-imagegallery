@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background: #066;	
+}
+
+.row {
+	background: white;
+	text-align: center;
+	padding: 15px;	
+}
+
+.sub-nav dd a {
+	margin-left: 380px;	
+}
+
+h1 {
+	font-size: 7em;	
+}
